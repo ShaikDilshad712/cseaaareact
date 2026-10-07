@@ -1,7 +1,5 @@
 function Status({ isLoggedIn }) {
- return (
- <h1>
- {isLoggedIn ? "Welcome back!" : "Please log in."}
+ ret
  </h1>
  );
 }
